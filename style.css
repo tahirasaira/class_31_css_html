@@ -1,0 +1,44 @@
+.box1{
+    height:250px;
+    width:250px;
+    padding:20px;
+    border: 2px solid black;
+    background-color: aqua;
+    background-image: radial-gradient(red, yellow ,green);
+}
+.box2{
+    height:250px;
+    width:250px;
+    padding:20px;
+    border: 2px solid black;
+    background-color: aqua;
+    background-image: conic-gradient(red 45deg, yellow 90deg ,green 270deg );
+}
+.box3{
+    height:250px;
+    width:250px;
+    padding:20px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: aqua;
+    background-image: conic-gradient(red , yellow ,green );
+}
+.box4{
+    height:250px;
+    width:250px;
+    padding:20px;
+    border: 2px solid black;
+    background-color: aqua;
+    background-image: conic-gradient(red 0deg ,red 90deg, yellow 90deg ,yellow 180deg,green 180deg,green 360deg );
+}
+.box5{
+    height: 250px;
+    width: 250px;
+    box-shadow: 5px 20px skyblue;
+}
+img{
+    width:100%;
+}
+p{
+    text-align: center;
+}
